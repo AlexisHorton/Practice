@@ -11,3 +11,4 @@ C:\Users\alexi\source\repos\Practice\HandoutPractice\obj\Debug\netcoreapp3.1\Han
 C:\Users\alexi\source\repos\Practice\HandoutPractice\obj\Debug\netcoreapp3.1\HandoutPractice.dll
 C:\Users\alexi\source\repos\Practice\HandoutPractice\obj\Debug\netcoreapp3.1\HandoutPractice.pdb
 C:\Users\alexi\source\repos\Practice\HandoutPractice\obj\Debug\netcoreapp3.1\HandoutPractice.genruntimeconfig.cache
+C:\Users\alexi\source\repos\Practice\HandoutPractice\obj\Debug\netcoreapp3.1\HandoutPractice.csproj.AssemblyReference.cache
