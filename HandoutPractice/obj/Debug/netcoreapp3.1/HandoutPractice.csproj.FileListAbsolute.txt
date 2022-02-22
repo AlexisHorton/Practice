@@ -1,0 +1,13 @@
+C:\Users\alexi\source\repos\Practice\HandoutPractice\bin\Debug\netcoreapp3.1\HandoutPractice.exe
+C:\Users\alexi\source\repos\Practice\HandoutPractice\bin\Debug\netcoreapp3.1\HandoutPractice.deps.json
+C:\Users\alexi\source\repos\Practice\HandoutPractice\bin\Debug\netcoreapp3.1\HandoutPractice.runtimeconfig.json
+C:\Users\alexi\source\repos\Practice\HandoutPractice\bin\Debug\netcoreapp3.1\HandoutPractice.runtimeconfig.dev.json
+C:\Users\alexi\source\repos\Practice\HandoutPractice\bin\Debug\netcoreapp3.1\HandoutPractice.dll
+C:\Users\alexi\source\repos\Practice\HandoutPractice\bin\Debug\netcoreapp3.1\HandoutPractice.pdb
+C:\Users\alexi\source\repos\Practice\HandoutPractice\obj\Debug\netcoreapp3.1\HandoutPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\source\repos\Practice\HandoutPractice\obj\Debug\netcoreapp3.1\HandoutPractice.AssemblyInfoInputs.cache
+C:\Users\alexi\source\repos\Practice\HandoutPractice\obj\Debug\netcoreapp3.1\HandoutPractice.AssemblyInfo.cs
+C:\Users\alexi\source\repos\Practice\HandoutPractice\obj\Debug\netcoreapp3.1\HandoutPractice.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Practice\HandoutPractice\obj\Debug\netcoreapp3.1\HandoutPractice.dll
+C:\Users\alexi\source\repos\Practice\HandoutPractice\obj\Debug\netcoreapp3.1\HandoutPractice.pdb
+C:\Users\alexi\source\repos\Practice\HandoutPractice\obj\Debug\netcoreapp3.1\HandoutPractice.genruntimeconfig.cache
